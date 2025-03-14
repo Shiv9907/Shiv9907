@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shiv9907
 - 👀 I’m interested in learning to the depth of programming languages
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything that excites me
 - 📫 How to reach me: Contact me on any social media reffered in my bio
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i go crazy in coding if it hurts my ego
+- ⚡ Fun fact: i go bonkers in coding if it hurts my ego
 
 <!---
 Shiv9907/Shiv9907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
